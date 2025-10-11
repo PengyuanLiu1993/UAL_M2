@@ -1,0 +1,26 @@
+{
+  "id": "1760202383817",
+  "title": "Steak in London",
+  "description": "Steak in London",
+  "targetUserId": "user002",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -0.10979063153851598,
+    51.50419200146217
+  ],
+  "timestamp": "2025-10-11T17:06:23.817Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/f0ec2186-c013-49e2-83b4-e5f0185e7f60.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

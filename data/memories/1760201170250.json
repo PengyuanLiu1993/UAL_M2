@@ -1,0 +1,26 @@
+{
+  "id": "1760201170250",
+  "title": "Nanjing Impression",
+  "description": "I was leaving in 2022, so we went for Nanjing food",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    103.84545749272661,
+    1.2996402502329545
+  ],
+  "timestamp": "2025-10-11T16:46:10.250Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/75a41c25-703f-4a6f-9966-0ae940fdee8c.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

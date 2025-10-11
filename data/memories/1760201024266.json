@@ -1,0 +1,26 @@
+{
+  "id": "1760201024266",
+  "title": "Hiking - 2022",
+  "description": "Hiking memory",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    103.77810354919848,
+    1.354409366321491
+  ],
+  "timestamp": "2025-10-11T16:43:44.266Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/867d3bfe-f2ea-44f4-8958-58c1e10ed678.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

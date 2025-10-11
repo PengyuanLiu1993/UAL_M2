@@ -1,0 +1,24 @@
+{
+  "id": "1760201553481",
+  "title": "In Highland",
+  "description": "In Highland, on the way back to Glasgow",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -4.957415521445256,
+    56.66357660891856
+  ],
+  "timestamp": "2025-10-11T16:52:33.481Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/7a502e57-365d-483e-a53d-450b9886086e.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

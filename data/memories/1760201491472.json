@@ -1,0 +1,26 @@
+{
+  "id": "1760201491472",
+  "title": "Loch Lomond",
+  "description": "Loch Lomond trip",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -4.617201551141392,
+    56.038410949014946
+  ],
+  "timestamp": "2025-10-11T16:51:31.472Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/f5eb3b8d-fcec-4513-9b06-9778d2543f33.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

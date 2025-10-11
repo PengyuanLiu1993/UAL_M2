@@ -1,0 +1,26 @@
+{
+  "id": "1760201257976",
+  "title": "Malacca",
+  "description": "A three day trip in Malacca!",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    102.24759802563324,
+    2.1957005956671622
+  ],
+  "timestamp": "2025-10-11T16:47:37.976Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/bfd48688-bc34-416f-9ffe-7f23d9456214.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

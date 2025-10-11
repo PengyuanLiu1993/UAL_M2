@@ -1,0 +1,28 @@
+{
+  "1760200701576": {
+    "id": "1760200701576",
+    "title": "Hotpot 2022",
+    "description": "Celebrating Tianhong's birthday together!",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.74682144791029,
+      1.3349345831960022
+    ],
+    "timestamp": "2025-10-11T16:38:21.576Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/311c4409-b8f1-461a-a2c1-4b0cda53a567.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  }
+}

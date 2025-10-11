@@ -1,0 +1,26 @@
+{
+  "id": "1760200913233",
+  "title": "BBQ - 2022",
+  "description": "BBQ at Xiucheng's",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    103.76525239756558,
+    1.2972591400060338
+  ],
+  "timestamp": "2025-10-11T16:41:53.233Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/76ae3c00-e34b-4938-aa32-92b6be0bf9cf.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

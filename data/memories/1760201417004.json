@@ -1,0 +1,26 @@
+{
+  "id": "1760201417004",
+  "title": "UBDC Visit",
+  "description": "UBDC Visit",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -4.291062069484354,
+    55.87471367775359
+  ],
+  "timestamp": "2025-10-11T16:50:17.004Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/6541fde4-54a0-49d2-8aa3-72fba70768cd.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "research"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1760201737463",
+  "title": "Nanjing Impression",
+  "description": "Happy got Winston tried food from Nanjing!",
+  "targetUserId": "user002",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    103.8454383035866,
+    1.2995723255480272
+  ],
+  "timestamp": "2025-10-11T16:55:37.463Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/ab3ff7b6-6a27-4549-a625-ae3b154a2733.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

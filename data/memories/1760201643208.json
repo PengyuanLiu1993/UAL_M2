@@ -1,0 +1,26 @@
+{
+  "id": "1760201643208",
+  "title": "Isle of Skye",
+  "description": "Hiking in Skye!",
+  "targetUserId": "user001",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -6.183564993028682,
+    57.506162052013735
+  ],
+  "timestamp": "2025-10-11T16:54:03.208Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/1599b817-05c1-45b6-be73-296eeb5bd24f.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "fun"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

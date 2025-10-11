@@ -1,0 +1,286 @@
+{
+  "1760200701576": {
+    "id": "1760200701576",
+    "title": "Hotpot 2022",
+    "description": "Celebrating Tianhong's birthday together!",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.74682144791029,
+      1.3349345831960022
+    ],
+    "timestamp": "2025-10-11T16:38:21.576Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/311c4409-b8f1-461a-a2c1-4b0cda53a567.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760200913233": {
+    "id": "1760200913233",
+    "title": "BBQ - 2022",
+    "description": "BBQ at Xiucheng's",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.76525239756558,
+      1.2972591400060338
+    ],
+    "timestamp": "2025-10-11T16:41:53.233Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/76ae3c00-e34b-4938-aa32-92b6be0bf9cf.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201024266": {
+    "id": "1760201024266",
+    "title": "Hiking - 2022",
+    "description": "Hiking memory",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.77810354919848,
+      1.354409366321491
+    ],
+    "timestamp": "2025-10-11T16:43:44.266Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/867d3bfe-f2ea-44f4-8958-58c1e10ed678.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201170250": {
+    "id": "1760201170250",
+    "title": "Nanjing Impression",
+    "description": "I was leaving in 2022, so we went for Nanjing food",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.84545749272661,
+      1.2996402502329545
+    ],
+    "timestamp": "2025-10-11T16:46:10.250Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/75a41c25-703f-4a6f-9966-0ae940fdee8c.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201257976": {
+    "id": "1760201257976",
+    "title": "Malacca",
+    "description": "A three day trip in Malacca!",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      102.24759802563324,
+      2.1957005956671622
+    ],
+    "timestamp": "2025-10-11T16:47:37.976Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/bfd48688-bc34-416f-9ffe-7f23d9456214.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201417004": {
+    "id": "1760201417004",
+    "title": "UBDC Visit",
+    "description": "UBDC Visit",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      -4.291062069484354,
+      55.87471367775359
+    ],
+    "timestamp": "2025-10-11T16:50:17.004Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/6541fde4-54a0-49d2-8aa3-72fba70768cd.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "research"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201491472": {
+    "id": "1760201491472",
+    "title": "Loch Lomond",
+    "description": "Loch Lomond trip",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      -4.617201551141392,
+      56.038410949014946
+    ],
+    "timestamp": "2025-10-11T16:51:31.472Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/f5eb3b8d-fcec-4513-9b06-9778d2543f33.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201553481": {
+    "id": "1760201553481",
+    "title": "In Highland",
+    "description": "In Highland, on the way back to Glasgow",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      -4.957415521445256,
+      56.66357660891856
+    ],
+    "timestamp": "2025-10-11T16:52:33.481Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/7a502e57-365d-483e-a53d-450b9886086e.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201643208": {
+    "id": "1760201643208",
+    "title": "Isle of Skye",
+    "description": "Hiking in Skye!",
+    "targetUserId": "user001",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      -6.183564993028682,
+      57.506162052013735
+    ],
+    "timestamp": "2025-10-11T16:54:03.208Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/1599b817-05c1-45b6-be73-296eeb5bd24f.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760201737463": {
+    "id": "1760201737463",
+    "title": "Nanjing Impression",
+    "description": "Happy got Winston tried food from Nanjing!",
+    "targetUserId": "user002",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      103.8454383035866,
+      1.2995723255480272
+    ],
+    "timestamp": "2025-10-11T16:55:37.463Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/ab3ff7b6-6a27-4549-a625-ae3b154a2733.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  },
+  "1760202383817": {
+    "id": "1760202383817",
+    "title": "Steak in London",
+    "description": "Steak in London",
+    "targetUserId": "user002",
+    "contributorName": "Pengyuan Liu",
+    "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+    "coordinates": [
+      -0.10979063153851598,
+      51.50419200146217
+    ],
+    "timestamp": "2025-10-11T17:06:23.817Z",
+    "type": "location_memory",
+    "media": {
+      "images": [
+        "uploads/images/f0ec2186-c013-49e2-83b4-e5f0185e7f60.jpg"
+      ],
+      "trajectories": []
+    },
+    "tags": [
+      "fun"
+    ],
+    "isPublic": true,
+    "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+    "contributorColor": "#f43d3d"
+  }
+}

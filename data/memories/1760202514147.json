@@ -1,0 +1,26 @@
+{
+  "id": "1760202514147",
+  "title": "CUPUM",
+  "description": "CUPUM in London",
+  "targetUserId": "user002",
+  "contributorName": "Pengyuan Liu",
+  "contributorEmail": "neil.pengyuanliu.0705@gmail.com",
+  "coordinates": [
+    -0.031506118291247276,
+    51.55625401404802
+  ],
+  "timestamp": "2025-10-11T17:08:34.147Z",
+  "type": "location_memory",
+  "media": {
+    "images": [
+      "uploads/images/c1263af9-966e-4ed3-9c94-56c28b9d732c.jpg"
+    ],
+    "trajectories": []
+  },
+  "tags": [
+    "conference"
+  ],
+  "isPublic": true,
+  "registeredContributorId": "neil.pengyuanliu.0705@gmail.com",
+  "contributorColor": "#f43d3d"
+}

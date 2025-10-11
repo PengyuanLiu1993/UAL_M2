@@ -21,14 +21,14 @@ sleep 1
 
 # 自动更新contribution计数
 echo "📊 更新contribution计数..."
-python3 scripts/update_contributions.py
+python scripts/update_contributions.py
 
 # 修复颜色分配（如果需要）
 echo "🎨 检查并修复颜色分配..."
-python3 scripts/fix_user_colors.py
+python scripts/fix_user_colors.py
 
 echo "✅ 启动用户数据服务器 (端口 3001)..."
-python3 scripts/user-data-server.py &
+python scripts/user-data-server.py &
 SERVER_PID=$!
 
 echo "✅ 启动HTTP服务器 (端口 8000)..."
@@ -44,4 +44,4 @@ echo ""
 trap "echo; echo '🛑 停止服务器...'; kill $SERVER_PID 2>/dev/null; echo '✅ 已停止'; exit" INT
 
 # 启动HTTP服务器
-python3 -m http.server 8000
+python -m http.server 8000
